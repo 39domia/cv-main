@@ -170,7 +170,7 @@ h6 {
   position: relative;
   color: rgba(255, 255, 255, 0.7);
   font-size: 16px;
-  font-family: "Cabin", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 400;
 }
 
@@ -370,7 +370,7 @@ section .container {
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #aaaaaa;
-  font-family: "Cabin", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .section-title h2::after {
@@ -388,7 +388,7 @@ section .container {
   font-size: 36px;
   font-weight: 700;
   text-transform: uppercase;
-  font-family: "Cabin", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
 }
 
@@ -476,7 +476,7 @@ section .container {
   text-transform: uppercase;
   display: block;
   font-weight: 600;
-  font-family: "Cabin", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #fff;
 }
 
@@ -634,7 +634,7 @@ section .container {
   font-size: 18px;
   font-weight: 600;
   text-transform: uppercase;
-  font-family: "Cabin", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #18d26e;
   margin-bottom: 10px;
 }
