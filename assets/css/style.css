@@ -49,7 +49,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Cabin", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -536,8 +536,9 @@ section .container {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 90px;
+  height: 90px;
   border-radius: 50%;
-  margin: -40px 0 0 40px;
+  /* margin: -40px 0 0 40px; */
   position: relative;
   z-index: 2;
   border: 6px solid rgba(255, 255, 255, 0.12);
@@ -576,7 +577,7 @@ section .container {
 }
 
 .testimonials .testimonial-item p {
-  font-style: italic;
+  /* font-style: italic; */
   margin: 0 15px 0 15px;
   padding: 20px 20px 60px 20px;
   background: rgba(255, 255, 255, 0.1);
@@ -1209,4 +1210,8 @@ section .container {
 
 .credits a:hover {
   color: #fff;
+}
+
+.portfolio-info-description {
+  list-style: disc !important;
 }
